@@ -10,6 +10,7 @@
 
 @interface testInherViewController ()
 
+@property int dan;
 @end
 
 @implementation testInherViewController
